@@ -1,0 +1,3 @@
+return {
+  { "kabouzeid/nvim-lspinstall" },
+}
