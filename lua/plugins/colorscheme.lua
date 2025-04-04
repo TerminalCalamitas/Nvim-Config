@@ -8,7 +8,7 @@ return {
     "LazyVim/LazyVim",
     -- Sets the default colorscheme to the value of colorscheme--
     opts = {
-      colorscheme = "catppuccin-mocha",
+      colorscheme = "gruvbox",
     },
   },
 }

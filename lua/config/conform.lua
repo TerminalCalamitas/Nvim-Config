@@ -10,7 +10,6 @@ require("conform").setup({
     sh = { "shfmt" },
     fish = { "fish_indent" },
     lua = { "stylua" },
-    go = { "goimports", "gofumpt", "goimports-reviser" },
     javascript = { "prettier" },
     typescript = { "prettier" },
     javascriptreact = { "prettier" },
